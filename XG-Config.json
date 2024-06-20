@@ -1,0 +1,38 @@
+{
+  "ff_omain": "null",
+  "ff_main": "null",
+  
+  "ff_xg": "null",
+  "ff_xgesp" : "null",
+  
+  "ff_hash" : "null",
+  "ff_esphash" : "null",
+  
+  "ff_omain64": "null",
+  "ff_main64": "null",
+  
+  "ff_xg64": "null",
+  "ff_xgesp64" : "null",
+  
+  "ff_hash64" : "null",
+  "ff_esphash64" : "null",
+  
+  "ab_xg": "null",
+  "ab_hash": "null",
+
+  "codm_main": "aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdXZRQUZ0Uk9MRFZpeU0wbDlCRFNfVVZDLUN3P2U9T09SWUdz",
+  
+  "codm_xg": "null",
+  "codm_xgesp": "null",
+
+  "codm_hash": "null",
+  "codm_esphash": "null",
+
+  "codm_main64": "aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdXZRQUZ0Uk9MRFZpaDRLckljZUQ1Q2lZWU96P2U9RDVDd25j",
+
+  "codm_xg64": "null",
+  "codm_xgesp64": "null",
+
+  "codm_hash64": "null",
+  "codm_esphash64": "null"
+}
