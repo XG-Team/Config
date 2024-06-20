@@ -1,38 +1,38 @@
 {
-  "ff_omain": "null",
-  "ff_main": "null",
+  "ff_omain": "https://raw.githubusercontent.com/XG-Team/FF/main/32-Bit/libomain.so",
+  "ff_main": "https://raw.githubusercontent.com/XG-Team/FF/main/32-Bit/libmain.so",
   
   "ff_xg": "null",
-  "ff_xgesp" : "null",
+  "ff_xgesp" : "https://raw.githubusercontent.com/XG-Team/FF/main/32-Bit/libxg.so",
   
   "ff_hash" : "null",
-  "ff_esphash" : "null",
+  "ff_esphash" : "ba1ea1040c1d00fa0cbea788d5722232",
   
-  "ff_omain64": "null",
-  "ff_main64": "null",
+  "ff_omain64": "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libomain.so",
+  "ff_main64": "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libmain.so",
   
   "ff_xg64": "null",
-  "ff_xgesp64" : "null",
+  "ff_xgesp64" : "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libxg.so",
   
   "ff_hash64" : "null",
-  "ff_esphash64" : "null",
+  "ff_esphash64" : "8b74c572ec9c83c531e9b0f32e67630a",
   
   "ab_xg": "null",
   "ab_hash": "null",
 
-  "codm_main": "null",
+  "codm_main": "https://raw.githubusercontent.com/XG-Team/CODM/main/Bypass/32-Bit/libmain.so",
   
-  "codm_xg": "null",
-  "codm_xgesp": "null",
+  "codm_xg": "https://raw.githubusercontent.com/XG-Team/CODM/main/Bypass/32-Bit/libxg.so",
+  "codm_xgesp": "https://raw.githubusercontent.com/XG-Team/CODM/main/ESP/32-BIt/libESPxg.so",
 
-  "codm_hash": "null",
-  "codm_esphash": "null",
+  "codm_hash": "c31b7304bd35a63ed254a9100e2a1845",
+  "codm_esphash": "bcbbaaa2e600461210151c5009b14454",
 
-  "codm_main64": "aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdXZRQUZ0Uk9MRFZpaDRLckljZUQ1Q2lZWU96P2U9RDVDd25j",
+  "codm_main64": "https://raw.githubusercontent.com/XG-Team/CODM/main/Bypass/64-Bit/libmain.so",
 
-  "codm_xg64": "null",
-  "codm_xgesp64": "null",
+  "codm_xg64": "https://raw.githubusercontent.com/XG-Team/CODM/main/Bypass/64-Bit/libxg.so",
+  "codm_xgesp64": "https://raw.githubusercontent.com/XG-Team/CODM/main/ESP/64-BIt/libESPxg.so",
 
-  "codm_hash64": "null",
-  "codm_esphash64": "null"
+  "codm_hash64": "28ef02127c1a02953f656597c780dd70",
+  "codm_esphash64": "c43f3e0e5a01d6d89885d84b2d22871f"
 }
