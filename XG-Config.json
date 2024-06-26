@@ -3,19 +3,19 @@
   "ff_main": "https://raw.githubusercontent.com/XG-Team/FF/main/32-Bit/libmain.so",
   
   "ff_xg": "null",
-  "ff_xgesp" : "null",
+  "ff_xgesp" : "https://raw.githubusercontent.com/XG-Team/FF/main/32-Bit/libxgesp.so",
   
   "ff_hash" : "ba1ea1040c1d00fa0cbea788d5722232",
-  "ff_esphash" : "null",
+  "ff_esphash" : "a462ded81bd9470eec3f730dc243bcac",
   
   "ff_omain64": "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libomain.so",
   "ff_main64": "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libmain.so",
   
   "ff_xg64": "null",
-  "ff_xgesp64" : "null",
+  "ff_xgesp64" : "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libxgesp.so",
   
   "ff_hash64" : "8b74c572ec9c83c531e9b0f32e67630a",
-  "ff_esphash64" : "null",
+  "ff_esphash64" : "a1cb9f72ea8e9093ddbb135e81b376a6",
   
   "ab_xg": "null",
   "ab_hash": "null",
