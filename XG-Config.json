@@ -6,7 +6,7 @@
   "ff_xgesp" : "https://raw.githubusercontent.com/XG-Team/FF/main/32-Bit/libxgesp.so",
   
   "ff_hash" : "ba1ea1040c1d00fa0cbea788d5722232",
-  "ff_esphash" : "a462ded81bd9470eec3f730dc243bcac",
+  "ff_esphash" : "ce602409ea1b39216778e29034fcc3a0",
   
   "ff_omain64": "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libomain.so",
   "ff_main64": "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libmain.so",
@@ -15,7 +15,7 @@
   "ff_xgesp64" : "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libxgesp.so",
   
   "ff_hash64" : "8b74c572ec9c83c531e9b0f32e67630a",
-  "ff_esphash64" : "a1cb9f72ea8e9093ddbb135e81b376a6",
+  "ff_esphash64" : "e9513838eeed8bf0066995e62526ea88",
   
   "ab_xg": "null",
   "ab_hash": "null",
