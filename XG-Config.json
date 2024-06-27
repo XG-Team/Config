@@ -11,13 +11,13 @@
   "ff_omain64": "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libomain.so",
   "ff_main64": "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libmain.so",
   
-  "ff_xg64": "https://raw.githubusercontent.com/XG-Team/AB/main/64-Bit/libWGRecorderApi.so",
+  "ff_xg64": "null",
   "ff_xgesp64" : "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libxgesp.so",
   
   "ff_hash64" : "8b74c572ec9c83c531e9b0f32e67630a",
   "ff_esphash64" : "e9513838eeed8bf0066995e62526ea88",
   
-  "ab_xg": "null",
+  "ab_xg": "https://raw.githubusercontent.com/XG-Team/AB/main/64-Bit/libWGRecorderApi.so",
   "ab_hash": "a75d488d48452e7e3d749ca41875ac9a",
 
   "codm_main": "https://raw.githubusercontent.com/XG-Team/CODM/main/Bypass/32-Bit/libmain.so",
