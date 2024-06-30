@@ -5,7 +5,7 @@
   "ff_xg": "null",
   "ff_xgesp" : "https://raw.githubusercontent.com/XG-Team/FF/main/32-Bit/libxgesp.so",
   
-  "ff_hash" : "ba1ea1040c1d00fa0cbea788d5722232",
+  "ff_hash" : "201f57fc0fd79aa583f13e22eb7431a4",
   "ff_esphash" : "201f57fc0fd79aa583f13e22eb7431a4",
   
   "ff_omain64": "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libomain.so",
@@ -14,7 +14,7 @@
   "ff_xg64": "null",
   "ff_xgesp64" : "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libxgesp.so",
   
-  "ff_hash64" : "8b74c572ec9c83c531e9b0f32e67630a",
+  "ff_hash64" : "c68d541b6cacd5c9dfa1dec629c5e933",
   "ff_esphash64" : "c68d541b6cacd5c9dfa1dec629c5e933",
   
   "ab_xg": "https://raw.githubusercontent.com/XG-Team/AB/main/64-Bit/libWGRecorderApi.so",
