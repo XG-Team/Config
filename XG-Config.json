@@ -22,7 +22,7 @@
 
   "codm_main": "https://raw.githubusercontent.com/XG-Team/CODM/main/Bypass/32-Bit/libmain.so",
   
-  "codm_xg": "https://raw.githubusercontent.com/XG-Team/CODM/main/Bypass/32-Bit/libxg.so",
+  "codm_xg": "null",
   "codm_xgesp": "null",
 
   "codm_hash": "40b1f2e9823c6f4a35a751c2a907fa65",
