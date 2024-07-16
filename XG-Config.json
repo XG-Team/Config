@@ -2,23 +2,24 @@
   "ff_omain": "https://raw.githubusercontent.com/XG-Team/FF/main/32-Bit/libomain.so",
   "ff_main": "https://raw.githubusercontent.com/XG-Team/FF/main/32-Bit/libmain.so",
   
-  "ff_xg": "null",
-  "ff_xgesp" : "https://raw.githubusercontent.com/XG-Team/FF/main/32-Bit/libxg3.so",
+  "ff_xg": "https://raw.githubusercontent.com/XG-Team/FF/main/32-Bit/libxg3.so",
+  "ff_xgesp" : "null",
   
-  "ff_hash" : "201f57fc0fd79aa583f13e22eb7431a4",
-  "ff_esphash" : "205c7c8ff97fe5470e4a967d2aef439f",
+  "ff_hash" : "205c7c8ff97fe5470e4a967d2aef439f",
+  "ff_esphash" : "null",
   
   "ff_omain64": "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libomain.so",
   "ff_main64": "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libmain.so",
   
-  "ff_xg64": "null",
-  "ff_xgesp64" : "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libxg3.so",
+  "ff_xg64": "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libxg3.so",
+  "ff_xgesp64" : "null",
   
-  "ff_hash64" : "c68d541b6cacd5c9dfa1dec629c5e933",
-  "ff_esphash64" : "b4151e430ca1efc7900d91792fd7b2b1",
-  
+  "ff_hash64" : "b4151e430ca1efc7900d91792fd7b2b1",
+  "ff_esphash64" : "null",
+
+  "ab_main": "null",
   "ab_xg": "null",
-  "ab_hash": "a75d488d48452e7e3d749ca41875ac9a",
+  "ab_hash": "null",
 
   "codm_main": "https://raw.githubusercontent.com/XG-Team/CODM/main/Bypass/32-Bit/libmain.so",
   
