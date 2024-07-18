@@ -27,17 +27,17 @@
 
   "codm_main": "https://raw.githubusercontent.com/XG-Team/CODM/main/Bypass/32-Bit/libmain.so",
   
-  "codm_xg": "null",
+  "codm_xg": "https://raw.githubusercontent.com/XG-Team/CODM/main/Bypass/32-Bit/libxggameloop.so",
   "codm_xgesp": "null",
 
-  "codm_hash": "e9ecd7018b8856636f30954ae2997294",
+  "codm_hash": "0d6672098cb0335ddb86633b76737f6c",
   "codm_esphash": "4cca0578ce9d5eb11cf2f5d903ea008a",
 
   "codm_main64": "https://raw.githubusercontent.com/XG-Team/CODM/main/Bypass/64-Bit/libmain.so",
 
-  "codm_xg64": "null",
+  "codm_xg64": "https://raw.githubusercontent.com/XG-Team/CODM/main/Bypass/64-Bit/libxggameloop.so",
   "codm_xgesp64": "null",
 
-  "codm_hash64": "ad13f0679fd2058b9c5cbc32efefe2f4",
+  "codm_hash64": "3e75c13597f3e6a45ad8fbb1a20a19d6",
   "codm_esphash64": "226a87e25b18d09451865191cb65f4d1"
 }
