@@ -27,10 +27,10 @@
 
   "codm_main": "https://raw.githubusercontent.com/XG-Team/CODM/main/Bypass/32-Bit/libmain.so",
   
-  "codm_xg": "https://raw.githubusercontent.com/XG-Team/CODM/main/Bypass/32-Bit/libxg2.so",
+  "codm_xg": "https://raw.githubusercontent.com/XG-Team/CODM/main/Bypass/32-Bit/libxg3.so",
   "codm_xgesp": "null",
 
-  "codm_hash": "5f52b7108ab1e4add4a38d5d9d5a084e",
+  "codm_hash": "20bb118971dda9acb3f1ab07562f9a3d",
   "codm_esphash": "4cca0578ce9d5eb11cf2f5d903ea008a",
 
   "codm_main64": "https://raw.githubusercontent.com/XG-Team/CODM/main/Bypass/64-Bit/libmain.so",
