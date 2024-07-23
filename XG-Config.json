@@ -2,22 +2,22 @@
   "ff_omain": "https://raw.githubusercontent.com/XG-Team/FF/main/32-Bit/libomain.so",
   "ff_main": "https://raw.githubusercontent.com/XG-Team/FF/main/32-Bit/libmain.so",
   
-  "ff_xg": "https://raw.githubusercontent.com/XG-Team/FF/main/32-Bit/libxg3.so",
+  "ff_xg": "https://raw.githubusercontent.com/XG-Team/FF/main/32-Bit/libxg5.so",
   "ff_xgesp" : "https://raw.githubusercontent.com/XG-Team/FF/main/32-Bit/libxgtestesp.so",
   "ff_xgtest" : "null",
   
-  "ff_hash" : "205c7c8ff97fe5470e4a967d2aef439f",
+  "ff_hash" : "ec3c7a76b6371daa746028f990b652ed",
   "ff_esphash" : "8adc5f502024f99dd5777c35b93a6eec",
   "ff_testhash" : "null",
   
   "ff_omain64": "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libomain.so",
   "ff_main64": "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libmain.so",
   
-  "ff_xg64": "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libxg3.so",
+  "ff_xg64": "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libxg5.so",
   "ff_xgesp64" : "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libxgtestesp.so",
   "ff_xgtest64" : "null",
   
-  "ff_hash64" : "b4151e430ca1efc7900d91792fd7b2b1",
+  "ff_hash64" : "4eb474ecc6254ecde28361b10f8387b9",
   "ff_esphash64" : "1d80b4f35d75f94f4c03e47178bcaff0",
   "ff_testhash64" : "null",
 
