@@ -7,8 +7,8 @@
   "ff_xgtest" : "null",
   
   "ff_hash" : "205c7c8ff97fe5470e4a967d2aef439f",
-  "ff_esphash" : "52c72ef18a7a35f7bc47b695508425cd",
-  "ff_testhash" : "8adc5f502024f99dd5777c35b93a6eec",
+  "ff_esphash" : "8adc5f502024f99dd5777c35b93a6eec",
+  "ff_testhash" : "null",
   
   "ff_omain64": "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libomain.so",
   "ff_main64": "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libmain.so",
@@ -18,8 +18,8 @@
   "ff_xgtest64" : "null",
   
   "ff_hash64" : "b4151e430ca1efc7900d91792fd7b2b1",
-  "ff_esphash64" : "9d4d5e99abbfa61e94326cc26f61da60",
-  "ff_testhash64" : "1d80b4f35d75f94f4c03e47178bcaff0",
+  "ff_esphash64" : "1d80b4f35d75f94f4c03e47178bcaff0",
+  "ff_testhash64" : "null",
 
   "ab_main": "null",
   "ab_xg": "null",
