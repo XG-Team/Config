@@ -21,9 +21,9 @@
   "ff_esphash64" : "1d80b4f35d75f94f4c03e47178bcaff0",
   "ff_testhash64" : "null",
 
-  "ab_main": "null",
-  "ab_xg": "null",
-  "ab_hash": "null",
+  "ab_main": "https://raw.githubusercontent.com/XG-Team/AB/main/64-Bit/libWGRecorderApi.so",
+  "ab_xg": "https://raw.githubusercontent.com/XG-Team/AB/main/64-Bit/libxg.so",
+  "ab_hash": "410a63aa17781baf91533c551b088aa7",
 
   "codm_main": "https://raw.githubusercontent.com/XG-Team/CODM/main/Bypass/32-Bit/libmain.so",
   
