@@ -2,8 +2,8 @@
   "ff_omain": "https://raw.githubusercontent.com/XG-Team/FF/main/32-Bit/libomain.so",
   "ff_main": "https://raw.githubusercontent.com/XG-Team/FF/main/32-Bit/libmain.so",
   
-  "ff_xg": "https://raw.githubusercontent.com/XG-Team/FF/main/32-Bit/libxg5.so",
-  "ff_xgesp" : "https://raw.githubusercontent.com/XG-Team/FF/main/32-Bit/libxgtestesp.so",
+  "ff_xg": "null",
+  "ff_xgesp" : "null",
   "ff_xgtest" : "https://raw.githubusercontent.com/XG-Team/FF/main/32-Bit/July.30.2024.so",
   
   "ff_hash" : "ec3c7a76b6371daa746028f990b652ed",
@@ -13,8 +13,8 @@
   "ff_omain64": "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libomain.so",
   "ff_main64": "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libmain.so",
   
-  "ff_xg64": "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libxg5.so",
-  "ff_xgesp64" : "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libxgtestesp.so",
+  "ff_xg64": "null",
+  "ff_xgesp64" : "null",
   "ff_xgtest64" : "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/July.30.2024.so",
   
   "ff_hash64" : "4eb474ecc6254ecde28361b10f8387b9",
