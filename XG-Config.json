@@ -2,22 +2,22 @@
   "ff_omain": "https://raw.githubusercontent.com/XG-Team/FF/main/32-Bit/libomain.so",
   "ff_main": "https://raw.githubusercontent.com/XG-Team/FF/main/32-Bit/libmain.so",
   
-  "ff_xg": "null",
-  "ff_xgesp" : "https://raw.githubusercontent.com/XG-Team/FF/main/32-Bit/July-30-2024-229pm.so",
+  "ff_xg": "https://raw.githubusercontent.com/XG-Team/FF/main/32-Bit/July-30-2024-229pm.so",
+  "ff_xgesp" : "null",
   "ff_xgtest" : "null",
   
-  "ff_hash" : "ec3c7a76b6371daa746028f990b652ed",
+  "ff_hash" : "263a39deef349c0d33477240fcf64cea",
   "ff_esphash" : "263a39deef349c0d33477240fcf64cea",
   "ff_testhash" : "3bff8db1670ebed9de3d3230e2df803e",
   
   "ff_omain64": "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libomain.so",
   "ff_main64": "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/libmain.so",
   
-  "ff_xg64": "null",
-  "ff_xgesp64" : "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/July-30-2024-229pm.so",
+  "ff_xg64": "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/July-30-2024-229pm.so",
+  "ff_xgesp64" : "null",
   "ff_xgtest64" : "null",
   
-  "ff_hash64" : "4eb474ecc6254ecde28361b10f8387b9",
+  "ff_hash64" : "ac89d2e0ef20aeacc31e962b96932fea",
   "ff_esphash64" : "ac89d2e0ef20aeacc31e962b96932fea",
   "ff_testhash64" : "283f15cf2e40932bf156e477e5a63616",
 
