@@ -19,7 +19,7 @@
   
   "ff_hash64" : "c47c8a92939a778660e0aafdaf17c8f8",
   "ff_esphash64" : "1248e956674188e5c975f8b0cc71b7a7",
-  "ff_testhash64" : "f7741a215e445b4ab1dcd62293627fe3",
+  "ff_testhash64" : "0ad069b5ef5a2c200eb9f8abc483a214",
 
   "ab_main": "https://raw.githubusercontent.com/XG-Team/AB/main/64-Bit/libWGRecorderApi.so",
   "ab_xg": "https://raw.githubusercontent.com/XG-Team/AB/main/64-Bit/libxg.so",
