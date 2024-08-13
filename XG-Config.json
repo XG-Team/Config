@@ -15,11 +15,11 @@
   
   "ff_xg64": "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/August-5-2024-1058pm.so",
   "ff_xgesp64" : "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/ESP-August-3-2024-1232pm.so",
-  "ff_xgtest64" : "null",
+  "ff_xgtest64" : "https://raw.githubusercontent.com/XG-Team/FF/main/64-Bit/TEST-August-13-2024-301pm.so",
   
   "ff_hash64" : "c47c8a92939a778660e0aafdaf17c8f8",
   "ff_esphash64" : "1248e956674188e5c975f8b0cc71b7a7",
-  "ff_testhash64" : "283f15cf2e40932bf156e477e5a63616",
+  "ff_testhash64" : "f7741a215e445b4ab1dcd62293627fe3",
 
   "ab_main": "https://raw.githubusercontent.com/XG-Team/AB/main/64-Bit/libWGRecorderApi.so",
   "ab_xg": "https://raw.githubusercontent.com/XG-Team/AB/main/64-Bit/libxg.so",
